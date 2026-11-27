@@ -1,0 +1,6 @@
+{
+  "name": "Google Cloud Observability Lab — Muhammed Abdulazeez",
+  "description": "Interactive Google Cloud Monitoring lab walkthrough, observability simulator, and GitHub README authored by Muhammed Abdulazeez.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
